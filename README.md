@@ -66,6 +66,12 @@ Delivers asset visibility , intelligent assessments , and built in remediation t
 <img width="490" alt="defender for vulnerability" src="https://github.com/user-attachments/assets/b8c10d69-f1c0-4d21-a880-2a029e8b911b" />
 
 
+Defender Portal
+
+<img width="512" alt="Defender Portal" src="https://github.com/user-attachments/assets/d8a556c5-2d2b-457e-bdb3-144c14fbc7a1" />
+
+
+
 
 
 
