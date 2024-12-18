@@ -70,6 +70,24 @@ Defender Portal
 
 <img width="512" alt="Defender Portal" src="https://github.com/user-attachments/assets/d8a556c5-2d2b-457e-bdb3-144c14fbc7a1" />
 
+Describe the function and identity types of Microsoft Entra ID
+
+Microsoft's cloud based identity and access management service
+
+.Organizations can enable their employees , guests , and others to sign in and access the resources they need. 
+. Provide a single identity system for their multicloud and on premises applications 
+. Protect User Identities and credentials and meet an organization's access governance requirements .
+
+. Subscribers to Azure services , Microsoft 365 , or Dynamics 365 automatically have  access to Microsoft Entra ID.
+. Identity Security Score 
+
+
+
+
+
+
+
+
 
 
 
